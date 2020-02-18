@@ -10,7 +10,7 @@ Lyrics is a very basic SPA. It don't use Hooks as it was created just for learni
 ### **Run the App**
 
 #### Visit: 
-![](https://jovial-shaw-a10135.netlify.com/)
+![Lyrics App](https://jovial-shaw-a10135.netlify.com/)
 
 #### Or do the following: 
 1. Download the repo and to into its folder
