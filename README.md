@@ -13,5 +13,5 @@ Lyrics is a very basic SPA. It don't use Hooks as it was created just for learni
 3. Start searching
 
 #### This is how the App looks like:
-[](readme-img/main.PNG)
-[](https://github.com/lucasangelino/Lyrics/readme-img/search-bar.png)
+![](readme-img/main.PNG)
+![](https://github.com/lucasangelino/Lyrics/readme-img/search-bar.png)
